@@ -1,3 +1,4 @@
+package threads;
 // Below is a completed program that uses brute force to crack a 9-digit password. 
 // On average, the program takes about 0.125 seconds to find the password.
 // Your goal is to re-write the algorithm using Threads. Try to shorten the time it takes 
